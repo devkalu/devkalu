@@ -4,4 +4,4 @@
 
 🌱 I’m currently learning Continous Integration and Contionous Development/Delivery on React Native
 
-📫 Drop me a mail for collaboration or 
+📫 Drop me a mail for collaboration
