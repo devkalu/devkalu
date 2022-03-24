@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **E2E Testing using Detox and Cucumber**
 
-- 📫 How to reach me **kalu(dot)chibueze(@)hotmail(dot)com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
